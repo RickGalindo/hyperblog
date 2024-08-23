@@ -9,7 +9,7 @@ Un blog increible para el curso de Git y Github de Platzi
 #### 
 Creado por el increible platzi team
 Incluye ejemplos en windows y mac 
-
+Disponible para todas las edades
 
 Los README.md pueden estar en todas las carpetas, pero el más importante es el que se encuentra en la raíz. Este documento ayuda a que los colaboradores sepan información relevante del proyecto, módulo o sección. Puedes crear cualquier archivo con la extensión .md pero solo los README.md los mostrará por defecto GitHub.
 :tw-1f409: 
